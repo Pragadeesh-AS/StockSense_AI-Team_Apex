@@ -1,0 +1,3 @@
+store_id,city,store_type,floor_area_sqft,avg_daily_customers,region
+S1,Quito,D,14805,680,Pichincha
+S2,Quito,D,13466,2546,Pichincha
